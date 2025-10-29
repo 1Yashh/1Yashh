@@ -48,7 +48,7 @@ A complete **Excel BI System** integrating **Power Query**, **Power Pivot**, and
 
 📍 *Rohtak, Haryana, India*  
 📧 **oneyash11@gmail.com**  
-🔗 [**GitHub**](https://github.com/1Yashh) | [**LinkedIn (Coming Soon)**](https://www.linkedin.com/)
+🔗 [**GitHub**](https://github.com/1Yashh) | [**LinkedIn(www.linkedin.com/in/yash-hooda-14b84b22a)
 
 ---
 
