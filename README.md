@@ -47,10 +47,8 @@ A complete **Excel BI System** integrating **Power Query**, **Power Pivot**, and
 ### 🌐 Connect With Me  
 
 📍 *Rohtak, Haryana, India*  
-📧 **oneyash11@gmail.com**  
-🔗 [**GitHub**](https://github.com/1Yashh) | [**LinkedIn**](www.linkedin.com/in/yash-hooda-14b84b22a)
-
----
+📫 **Let's Connect:**  
+[LinkedIn](https://www.linkedin.com/in/yash-hooda) • [GitHub](https://github.com/1Yashh) • [Email](mailto:oneyash11@gmail.com)
 
 ### 🧠 My Vision  
 > “I don’t just build dashboards — I build **clarity**.  
